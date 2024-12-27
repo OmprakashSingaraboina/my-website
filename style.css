@@ -1,0 +1,42 @@
+.container{
+    height: 1000px;
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #dae8e7;
+   /* background-image: url("download (1).jpeg");*/
+    background-size: cover;
+    color:
+}
+.box{
+    height: 500px;
+    width: 400px;
+    padding-left: 45px;
+    border: 2px solid green;
+    font-size: 2rem;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#input{
+    background-color: transparent;
+    font-size: 2rem;
+}
+#logo{
+    font-size: 3.5rem;
+    padding: 12px 0px 0px 140px;
+}
+#input1{
+    font-size: 2rem;
+    padding-left: 120px;
+}
+#submit{
+    font-size: 2rem;
+    background-color: rgb(34, 54, 79);
+    color: #cccccc;
+    border-radius: 10px;
+
+}
